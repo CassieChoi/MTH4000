@@ -1,2 +1,2 @@
 READ ME
-I worte this for an assignment
+I wrote this for an assignment
